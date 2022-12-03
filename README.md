@@ -1,4 +1,7 @@
 # Beacon map
+
+I did not create this code! This is a fork from here.
+
 This map shows all the blinking beacons from [OpenStreetMap](https://www.openstreetmap.org/).
 
 ![Demo time](https://geodienst.github.io/lighthousemap/demo.gif)
