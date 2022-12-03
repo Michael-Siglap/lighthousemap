@@ -1,6 +1,6 @@
 # Beacon map
 
-I did not create this code! This is a fork from here.
+I did not create this code! This is a fork from [here](https://github.com/geodienst/lighthousemap).
 
 This map shows all the blinking beacons from [OpenStreetMap](https://www.openstreetmap.org/).
 
