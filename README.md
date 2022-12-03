@@ -1,4 +1,4 @@
-# Beacon map
+# Beacon map - fork
 
 I did not create this code! This is a fork from [here](https://github.com/geodienst/lighthousemap).
 
